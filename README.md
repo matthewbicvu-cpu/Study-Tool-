@@ -1,4 +1,4 @@
-# JBKT Web Tutot
+# JBKT Web Tutor
 
 A Free AI tutor  built and deployed on Replit.
 
