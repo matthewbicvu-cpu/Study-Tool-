@@ -1,6 +1,5 @@
-# JBKT Web Tutor
+# JBKT: Smart AI tutor. 
 
-A Free AI tutor  built and deployed on Replit.
 
  Live Demo
 
